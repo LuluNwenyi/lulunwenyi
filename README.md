@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I'm Lulu 👋
 
-<!--
-**LuluNwenyi/lulunwenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### I'm a Product Designer, Backend Developer and Technical Writer in Lagos, Nigeria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 iVolunteer @ **SheCodeAfrica, LuxAcademy**
+- 🌱 Learning more and studying about **Linux,** **Cloud Computing, Python,** **Open Source, Algorithms & DS**
+- 💬 Ping me about **Product Design, AWS, Linux**, **Mentorship**
+- 📫 Reach me asap: [Twitter](https://twitter.com/lulunwenyi/) or [Mail Me](mailto:oluchi@lulunwenyi.com)
+- 💜 Interests: *[Colleen Hoover's](https://www.colleenhoover.com/)* Big Fan, Content Creation
+
+### Find me around the web 🌎:
+
+- 🌐 Check out samples of my work on [LuluNwenyi.com](https://lulunwenyi.com)
+- 🐦 Say hi sometime @ [Twitter](https://twitter.com/lulunwenyi)
+
+---
