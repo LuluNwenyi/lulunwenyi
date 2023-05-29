@@ -2,7 +2,7 @@
 
 ---
 
-### I'm a Product Designer, Backend Developer and Technical Writer in Lagos, Nigeria.
+### I'm a Devops Engineer and Technical Writer in Lagos, Nigeria.
 
 - 🌍 iVolunteer @ **SheCodeAfrica**.
 - 🌱 Learning more and studying about **Linux**, **Cloud Computing**, **Python**,  **Open Source**.
