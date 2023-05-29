@@ -6,8 +6,8 @@
 
 - 🌍 iVolunteer @ **SheCodeAfrica**.
 - 🌱 Learning more and studying about **Linux**, **Cloud Computing**, **Python**,  **Open Source**.
-- 💬 Ping me about **Product Design**, **AWS**, **Linux**, **Technical Writing**.
-- 📫 Reach me: [E-mail](mailto:oluchinwenyi@gmail.com)
+- 💬 Ping me about **AWS**, **Linux**, **Technical Writing**.
+- 📫 Reach me: [via email](mailto:oluchinwenyi@gmail.com)
 
 
 ### Find me around the web 🌎:
