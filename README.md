@@ -6,5 +6,3 @@
 
 - 🌐 Check out samples of my work on [lulunwenyi.com](https://lulunwenyi.com)
 - 🐦 Say hi sometime @ [Twitter](https://twitter.com/lulunwenyi)
-
----
